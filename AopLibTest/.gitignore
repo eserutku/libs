@@ -1,0 +1,14 @@
+*/.settings
+.svn
+.classpath
+.project
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*.launch
+*/target
+/target/*
+*/all_resources/*/local
+.springBeans
